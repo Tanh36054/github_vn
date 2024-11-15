@@ -1,6 +1,7 @@
 #Terms
 
 Repository(Repo)
+Branch
 
 #Commands
 
@@ -11,4 +12,6 @@ Repository(Repo)
 - git commit //chinh thuc luu
 - git log //xem thoi diem luu
 - git log --oneline
-- git checkout
+- git checkout {branch name} // quay lai thoi diem truoc
+- git branch // canh
+- git checkout -b {branch name}
