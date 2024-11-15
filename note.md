@@ -3,6 +3,8 @@
 Repository(Repo)
 Branch
 Conflict
+Local
+Remote
 
 #Commands
 
@@ -18,3 +20,4 @@ Conflict
 - git checkout -b {branch name}
 - git merge {branch name} //chuyen branch
 - git branch -d {branch name} // xoa branch
+- git push
